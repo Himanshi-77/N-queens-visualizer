@@ -1,4 +1,3 @@
-// Visualizer.jsx
 import React, { useEffect, useState, useRef } from 'react';
 import { useBoard } from '../context/BoardContext';
 import '../styles/Visualizer.css';

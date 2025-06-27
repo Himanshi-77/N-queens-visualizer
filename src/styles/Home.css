@@ -2,7 +2,7 @@
   height: 100vh;
   width: 100vw;
   background-image: url('../assets/chess.webp');
-  background-size: calc(100% + 10px); /* Zoom by ~5px each side */
+  background-size: calc(100% + 10px);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
