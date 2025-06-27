@@ -1,0 +1,23 @@
+.board {
+  display: inline-block;
+  border: 3px solid #333;
+}
+.row {
+  display: flex;
+}
+.cell {
+  width: 50px;
+  height: 50px;
+  display: grid;
+  place-items: center;
+  font-size: 24px;
+}
+.light {
+  background-color: #f0d9b5;
+}
+.dark {
+  background-color: #b58863;
+}
+.queen {
+  color: black;
+}
